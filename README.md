@@ -7,6 +7,7 @@ The objective of this analysis is to run a VBA script that will loop through sto
 
 > -The total stock volume of the stock.
 
+> -The script will also run through all worksheets.
 ---
 
 Files include screenshots of each year of stock output and the VBA script.
